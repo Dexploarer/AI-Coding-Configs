@@ -13,7 +13,7 @@
 
 *Unified. Consistent. Powerful. Seamless AI-driven development across every major coding assistant.*
 
-[🚀 Quick Start](#-quick-start) • [🔧 Setup Guide](./SETUP-GUIDE.md) • [📖 Documentation](#-whats-inside) • [💡 Philosophy](#-development-philosophy)
+[🚀 Quick Start](#-quick-start) • [🔧 Setup Guide](./elizaos-ai-configs/SETUP-GUIDE.md) • [📖 Documentation](#-whats-inside) • [💡 Philosophy](#-development-philosophy)
 
 </div>
 
@@ -296,7 +296,7 @@ This configuration suite represents more than just setup files - it's a **paradi
 
 ## 🎉 **Ready to Transform Your Development Experience?**
 
-**[📖 Complete Setup Guide](./SETUP-GUIDE.md)** | **[🎯 Quick Start](#-quick-start)** | **[🔧 Advanced Configuration](./CLAUDE.md)**
+**[📖 Complete Setup Guide](./elizaos-ai-configs/SETUP-GUIDE.md)** | **[🎯 Quick Start](#-quick-start)** | **[🔧 Advanced Configuration](./elizaos-ai-configs/CLAUDE.md)**
 
 ---
 
